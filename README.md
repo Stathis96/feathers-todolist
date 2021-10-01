@@ -1,6 +1,6 @@
 # Livestreamer Project Ideas
 
-> Simple app for coding livestreamers to have viewers send in project ideas in real-time using Feathers & Express
+> Simple app for creating list for todos
 
 ## Quick Start
 

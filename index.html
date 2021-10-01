@@ -138,7 +138,7 @@
         // Add existing lists to list
         lists.forEach(renderList);
 
-        // Add idea in realtime
+        // Add list in realtime
         app.service('lists').on('created', renderList);
       }
 
